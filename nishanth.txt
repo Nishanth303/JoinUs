@@ -1,0 +1,21 @@
+1.Yes,I have a Laptop
+2.OS : Windows 8.1 pro, RAM : 4 GB, Screen Resolution : 14
+3.Windows and Linux
+
+Social Links
+1. https://github.com/Nishanth303
+2.https://stackoverflow.com/users/5897117/nishanth-n
+3.No Blog/Tumblr/Personal Website
+4.No Linkedin Account
+
+1./b : Matches the pattern if at the beginning of a line.
+/e : Matches the pattern if at the end of a line.
+/l : Uses search strings literally.
+
+2.Python Programming, JAVA
+3.I took Almost 1 hour to install development environment and I hadn't done any automation on it.
+
+Programming Languages
+
+1. No
+2. Python Programming
